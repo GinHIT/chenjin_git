@@ -1,3 +1,5 @@
 Git is a version control system.
 Git is free software.
-GIt is firstly wrote by Linus Torvalds.
+Git is firstly wrote by Linus Torvalds.
+GitHub is a website that can store code.
+
