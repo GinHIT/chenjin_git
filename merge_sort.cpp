@@ -84,7 +84,7 @@ int main()
 	while((cin>>i).get(c))
 	{
 		vector_1.push_back(i);
-		if(c=='\n')
+    	if(c=='\n')
 		{
 			break;
 		}
